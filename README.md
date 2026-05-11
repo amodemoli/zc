@@ -45,12 +45,16 @@ if you need build this application? no problem run this road-map:
 3) you need download all of project files.
 4) run this command on terminal:
 ```bash
+go mod init github.com/amodemoli/zc
+```
+5) and run this file for compile:
+```bash
 go build -o zc .
 ```
-5) copy compiled file and go ro ``/build`` directory
-6) delete old zc or zc.exe file
-7) replace new zc of zc.exe file
-8) follow install road map on file header
+6) copy compiled file and go ro ``/build`` directory
+7) delete old zc or zc.exe file
+8) replace new zc of zc.exe file
+9) follow install road map on file header
 
 > Discord: @ir.de <br>
 > Website: [demolition.ir](http://demolition.ir) <br>
