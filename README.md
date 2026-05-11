@@ -1,5 +1,4 @@
-# Zima Command - Beta
-
+<div align="center">Zima Command - v1.0</div>
 ## Installation
 
 **Linux** (in `/build` directory):
