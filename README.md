@@ -1,10 +1,12 @@
-<h2 align="center">Zima Command - v1.0</h2>
-## Installation
+<h2 align="center">Zima-Command@v1.0</h2>
+
+» Installation
 
 **Linux** (in `/build` directory):
-
-`bash ./install.sh`      # Install  
-`bash ./uninstall.sh`    # Uninstall
+for install:
+```bash
+  bash ./install.sh 
+```
 
 **Windows** (Run as Administrator):
 
