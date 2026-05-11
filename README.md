@@ -1,4 +1,4 @@
-<div align="center">Zima Command - v1.0</div>
+<h2 align="center">Zima Command - v1.0</h2>
 ## Installation
 
 **Linux** (in `/build` directory):
