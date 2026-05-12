@@ -60,3 +60,5 @@ go build -o zc .
 > Website: [demolition.ir](http://demolition.ir) <br>
 > Telegram: [@amodemoli](https://t.me/amodemoli) <br>
 > Bale(Irainian Messager): @demolition <br>
+
+### Commands
